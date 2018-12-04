@@ -5,8 +5,8 @@
   * [一、C语言源文件的组成](yi-3001-c-yu-yan-ji-chu/yi-3001-c-yu-yan-yuan-wen-jian-de-zu-cheng.md)
   * [二、C语言语法组成](yi-3001-c-yu-yan-ji-chu/er-3001-c-yu-yan-yu-fa-zu-cheng.md)
   * [三、C语言的数据](yi-3001-c-yu-yan-ji-chu/san-3001-c-yu-yan-de-shu-ju.md)
-  * 四、C语言语句及表达式
-  * 五、C语言的运算符
+  * [四、C语言语句及表达式](yi-3001-c-yu-yan-ji-chu/si-3001-c-yu-yan-yu-ju-ji-biao-da-shi.md)
+  * [五、C语言的运算符](yi-3001-c-yu-yan-ji-chu/wu-3001-c-yu-yan-de-yun-suan-fu.md)
   * 六、C语言输入输出函数
   * 七、C语言的控制语句
   * 八、数组
