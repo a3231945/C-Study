@@ -7,7 +7,7 @@
   * [三、C语言的数据](yi-3001-c-yu-yan-ji-chu/san-3001-c-yu-yan-de-shu-ju.md)
   * [四、C语言语句及表达式](yi-3001-c-yu-yan-ji-chu/si-3001-c-yu-yan-yu-ju-ji-biao-da-shi.md)
   * [五、C语言的运算符](yi-3001-c-yu-yan-ji-chu/wu-3001-c-yu-yan-de-yun-suan-fu.md)
-  * 六、C语言输入输出函数
+  * [六、C语言输入输出函数](yi-3001-c-yu-yan-ji-chu/liu-3001-c-yu-yan-shu-ru-shu-chu-han-shu.md)
   * 七、C语言的控制语句
   * 八、数组
   * 九、指针
