@@ -10,6 +10,6 @@
   * [六、C语言输入输出函数](yi-3001-c-yu-yan-ji-chu/liu-3001-c-yu-yan-shu-ru-shu-chu-han-shu.md)
   * [七、C语言的控制语句](yi-3001-c-yu-yan-ji-chu/qi-3001-c-yu-yan-de-kong-zhi-yu-ju.md)
   * [八、数组](yi-3001-c-yu-yan-ji-chu/ba-3001-shu-zu.md)
-  * 九、指针
-  * 十、函数
+  * [九、指针](yi-3001-c-yu-yan-ji-chu/jiu-3001-zhi-zhen.md)
+  * [十、函数](yi-3001-c-yu-yan-ji-chu/shi-3001-han-shu.md)
 
