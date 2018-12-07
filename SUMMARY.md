@@ -12,4 +12,8 @@
   * [八、数组](yi-3001-c-yu-yan-ji-chu/ba-3001-shu-zu.md)
   * [九、指针](yi-3001-c-yu-yan-ji-chu/jiu-3001-zhi-zhen.md)
   * [十、函数](yi-3001-c-yu-yan-ji-chu/shi-3001-han-shu.md)
+* [IO编程](iobian-cheng.md)
+* 进程通信
+* 网络编程
+* 其他杂项
 
