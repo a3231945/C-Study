@@ -15,7 +15,8 @@
 * 数据结构
 * [IO编程](iobian-cheng.md)
   * [基础知识](iobian-cheng/ji-chu-zhi-shi.md)
-  * 标准IO
+  * [标准IO](iobian-cheng/biaozhun-io.md)
+  * [文件IO](iobian-cheng/wen-jian-io.md)
 * 进程通信
 * 网络编程
 * 其他杂项
